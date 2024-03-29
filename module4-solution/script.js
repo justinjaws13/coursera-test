@@ -1,7 +1,7 @@
 (function (window) {
   var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
-  // Define los objetos 'helloSpeaker' y 'byeSpeaker' y sus métodos 'speak'
+  // Definir los objetos 'helloSpeaker' y 'byeSpeaker' y sus métodos 'speak'...
   var helloSpeaker = {
     speak: function(name) {
       console.log("Hello " + name);
